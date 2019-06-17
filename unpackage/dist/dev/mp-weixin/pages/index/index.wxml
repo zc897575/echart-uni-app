@@ -1,0 +1,1 @@
+<view class="content"><ec-canvas vue-id="1" id="mychart-dom-bar" canvas-id="mychart-bar" bind:__l="__l"></ec-canvas></view>
